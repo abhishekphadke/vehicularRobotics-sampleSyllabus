@@ -1,1 +1,1 @@
-# vehicularRobotics-samplesSyllabus
+# vehicularRobotics-topic coverage
